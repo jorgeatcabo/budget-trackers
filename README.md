@@ -14,7 +14,7 @@
 [Questions](#Questions)    
 [License](#License)    
 # Title
-Workout Tracker
+Budget Trackers App
 
 # Description
 Budget Trackers App based on Mongo database, Express framework, Service Workers and Caching that allows the user be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they are able populate the total when brought back online.
