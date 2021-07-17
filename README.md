@@ -31,7 +31,7 @@ When the Budget App is open, an user without an internet connection can input a 
 It is necessary to know MongoDB for creating, reading and updating collections and documents, the knowledge of Mongoose ODM for modeling the application data, Express for routes, Services Workers and Caching for offline access. You can contribute reporting bugs, suggesting enhacements, pull requests. Best practices for class/id naming conventions, indentation, quality comments, etc.
 
 # Test
-For local testing use: "git clone git@github.com:jorgeatcabo/budget-trackers.git", “npm install” and "npm start". For testing on a deployment URL use: 
+For local testing use: "git clone git@github.com:jorgeatcabo/budget-trackers.git", “npm install” and "npm start". For testing on a deployment URL use: https://protected-basin-72791.herokuapp.com/
 
 # Questions
 https://github.com/jorgeatcabo
